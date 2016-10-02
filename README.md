@@ -9,6 +9,6 @@ Davidson Ferreira da Silva - Desenvolvedor Web.
 
 Este foi o projeto desenvolvido no dia:
 
-<a target="_blank" href="https://davidsonfs.github.io/Etec-2016-Projeto-Bootstrap/">>Ver Projeto< </a>
+<a target="_blank" href="https://davidsonfs.github.io/workshop-Etec-2016-Projeto-Bootstrap/">>Ver Projeto< </a>
 
  
